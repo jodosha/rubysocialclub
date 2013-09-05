@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:{{ page.event_url }}
+DTSTART:{{ page.starts_at }}
+DTEND:{{ page.ends_at }}
+SUMMARY:{{ page.summary }}
+LOCATION:{{ page.location }}
+END:VEVENT
+END:VCALENDAR
+EVENT
