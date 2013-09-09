@@ -13,7 +13,7 @@ module Jekyll
 
     private
     def extract_city_from(context)
-      context['post']['categories'].first
+      ( context['post'] || context['page'] )['categories'].first
     end
   end
 end

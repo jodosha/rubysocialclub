@@ -9,7 +9,7 @@ layout: default
     {% if post.categories.first == page.category %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p class="meta">Pubblicato il {{ post.date | date_to_string }} &dash; {% link_to_author post %}</p>
+        <p class="meta">Pubblicato il: {{ post.date | date_to_string }} &dash; {% link_to_city post %} &dash; {% link_to_author post %}</p>
         <p>{{ post.excerpt }}</p>
       </li>
     {% endif %}
