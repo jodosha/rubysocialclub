@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Siamo lieti di annunciare il ritorno del Ruby Social Club a Roma!"
-date:   2013-05-02 10:18:00
+title: "Siamo lieti di annunciare il ritorno del Ruby Social Club a Roma!"
+date: 2013-05-02 10:18:00
 categories: roma
 author: jodosha
 starts: 2013-05-30 19:00:00
 ends: 2013-05-30 21:00:00
-where: |
-  Working Capital Accelerator - Telecom Italia
+location: Working Capital Accelerator
+address: |
   Via di Santa Maria in Via, 6
   00187 - Roma
 ---
