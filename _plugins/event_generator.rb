@@ -57,15 +57,15 @@ module Jekyll
     end
 
     def location
-      _singleline event.data['where']
+      _singleline event.data['address']
     end
 
     def summary
-      "Ruby Social Club #{ city }"
+      "Ruby Social Club #{ city } @ #{ event.data['location'] }"
     end
 
     def city
-      event.categories.first.capitalize
+      event.data['categories'].capitalize
     end
 
     private
