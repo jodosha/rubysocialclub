@@ -1,0 +1,13 @@
+#!/bin/bash
+
+tmp=/tmp/jekyll-$(date +%s)
+
+git fetch
+mkdir -p $tmp
+bin/jekyll build --destination $tmp && touch $tmp/.nojekyll
+git checkout gh-pages
+git rm -r --cached .
+cp -R $tmp/* .
+git add . && git commit -m "Published on $(date)"
+git push -f origin gh-pages
+git checkout master
