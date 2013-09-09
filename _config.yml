@@ -1,5 +1,0 @@
-name: "Ruby Social Club"
-url: "http://rubysocialclub.com"
-markdown: redcarpet
-pygments: true
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'bin']
