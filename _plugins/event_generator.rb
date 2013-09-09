@@ -61,7 +61,7 @@ module Jekyll
     end
 
     def summary
-      "Ruby Social Club #{ city } @ #{ event.data['location'] }"
+      "#{ site.config['name'] } #{ city } @ #{ event.data['location'] }"
     end
 
     def city
