@@ -16,7 +16,7 @@ L'estate &egrave; finita e siamo pronti a ripartire con il Ruby Social Club.
 
 Il prossimo appuntamento si terr&agrave; nella location dell'ultimo incontro, il **WCAP di Telecom Italia** in via Santa Maria in Via 6, e avr&agrave; luogo il **19 Settembre alle 18:30**.
 
-[Giuseppe Modarelli](http://gmodarelli.github.io) terr&grave; un workshop sul Test-Driven Development, incentrato su Outside-in Development e Test-Driven Design.
+[Giuseppe Modarelli](http://gmodarelli.github.io) terr&agrave; un workshop sul Test-Driven Development, incentrato su Outside-in Development e Test-Driven Design.
 
 Come da tradizione, al termine dell'incontro, birra collettiva in un pub di zona.
 

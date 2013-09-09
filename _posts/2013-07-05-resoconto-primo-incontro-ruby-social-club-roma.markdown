@@ -13,7 +13,7 @@ address: |
 ---
 
 
-E' passanto un pò di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza è rimasta viva nella mia memoria.
+E' passanto un pò di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
 
 E' stato un bellissimo incontro fra persone che condividono la stessa passione per ruby e per la programmazione. Un'occasione per
 conoscere gente nuova e stringere rapporti di amicizia o professionali, o semplicemente per fare due chiacchiere.
