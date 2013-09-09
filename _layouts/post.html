@@ -1,14 +1,25 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }} - <a href="https://github.com/{{ page.author }}" target="_blank">@{{ page.author }}</a></p>
-
-<div class="post">
-{{ content }}
+<div class="row">
+  <div class="span12">
+    <h2>{{ page.title }}</h2>
+    <p class="meta">Pubblicato il: {{ page.date | date_to_string }} &dash; {% link_to_author page %}</p>
+  </div>
 </div>
 
-<hr />
-<p class="meta">Quando: {{ page.starts | date_to_string }}</p>
-<p class="meta">Dove: {{ page.where | multiline }}</p>
-<p><a href="{{ page.id }}.ics">iCal</a></p>
+<div class="row">
+  <div class="span12 post">
+    {{ content }}
+    <hr />
+  </div>
+</div>
+
+<div class="row details">
+  <div class="span8">
+    <p>{% link_to_calendar page %}</p>
+  </div>
+  <div class="span4 location">
+    <p>{% link_to_map page %}</p>
+  </div>
+</div>
