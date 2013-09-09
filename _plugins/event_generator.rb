@@ -85,8 +85,15 @@ module Jekyll
     safe true
 
     def generate(site)
+      for_each_event(site) do |event|
+        site.posts << Jekyll::EventPost.new(site, event)
+      end
+    end
+
+    private
+    def for_each_event(site)
       site.posts.dup.each do |post|
-        site.posts << Jekyll::EventPost.new(site, post)
+        yield post if post.data['location']
       end
     end
   end
