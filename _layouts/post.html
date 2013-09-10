@@ -11,11 +11,12 @@ layout: default
 <div class="row">
   <div class="span12 post">
     {{ content }}
-    <hr />
   </div>
 </div>
 
+{% if page.location %}
 <div class="row details">
+  <hr />
   <div class="span8">
     <p>{% link_to_calendar page %}</p>
   </div>
@@ -23,3 +24,4 @@ layout: default
     <p>{% link_to_map page %}</p>
   </div>
 </div>
+{% endif %}
