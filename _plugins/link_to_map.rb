@@ -12,12 +12,18 @@ module Jekyll
 
     def render(context)
       page = extract_page_from(context)
-      %(<a href="#{ map_url page }" target="_blank">#{ formatted_location page }</a>)
+      if has_a_location? page
+        %(<a href="#{ map_url page }" target="_blank">#{ formatted_location page }</a>)
+      end
     end
 
     private
     def extract_page_from(context)
       context['post'] || context['page']
+    end
+
+    def has_a_location?(page)
+      page['location']
     end
 
     def map_url(page)

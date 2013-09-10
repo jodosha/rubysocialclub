@@ -4,16 +4,10 @@ title: "Resoconto sul primo incontro del Ruby Social Club Roma"
 date: 2013-07-05 19:00:00
 categories: roma
 author: gmodarelli
-starts: 2013-07-05 19:00:00
-ends: 2013-07-05 19:00:00
-location: Working Capital Accelerator
-address: |
-  Via di Santa Maria in Via, 6
-  00187 - Roma
 ---
 
 
-E' passanto un pò di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
+E' passanto un p&ograve; di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
 
 E' stato un bellissimo incontro fra persone che condividono la stessa passione per ruby e per la programmazione. Un'occasione per
 conoscere gente nuova e stringere rapporti di amicizia o professionali, o semplicemente per fare due chiacchiere.
