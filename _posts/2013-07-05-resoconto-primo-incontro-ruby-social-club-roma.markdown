@@ -4,18 +4,11 @@ title: "Resoconto sul primo incontro del Ruby Social Club Roma"
 date: 2013-07-05 19:00:00
 categories: roma
 author: gmodarelli
-starts: 2013-07-05 19:00:00
-ends: 2013-07-05 19:00:00
-location: Working Capital Accelerator
-address: |
-  Via di Santa Maria in Via, 6
-  00187 - Roma
 ---
 
+E' passanto un po' di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
 
-E' passanto un pò di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
-
-E' stato un bellissimo incontro fra persone che condividono la stessa passione per ruby e per la programmazione. Un'occasione per
+E' stato un bellissmo incontro fra persone che condividono la stessa passione per Ruby e per la programmazione. Un'occasione per
 conoscere gente nuova e stringere rapporti di amicizia o professionali, o semplicemente per fare due chiacchiere.
 
 L'evento &egrave; stato organizzato da [Luca Guidi](http://lucaguidi.com/about.html) che ringranziamo per aver riportato il Ruby Social Club a Roma.
@@ -23,7 +16,7 @@ L'evento &egrave; stato organizzato da [Luca Guidi](http://lucaguidi.com/about.h
 Luca ha aperto la serata parlandoci un p&ograve; del suo background lavorativo, delle sue esperienze e dei suoi progetti. Poi ha passato la palla a noi, chiedendoci di presentarci e
 di raccontare le nostre esperienze.
 
-Dopo un inizio un p&ograve; timido, la passione per ruby ha preso il sopravvento e ognuno di noi ha parlato della propria esperienza e dei propri progetti. L'atmosfera era così 
+Dopo un inizio un p&ograve; timido, la passione per Ruby ha preso il sopravvento e ognuno di noi ha parlato della propria esperienza e dei propri progetti. L'atmosfera era cos&igrave; 
 rilassata che abbiamo sforato la durata di un'ora prevista per l'incontro, continuando a discutere animatamente fino alle 21, tanto che Luca non ha avuto il tempo per la talk sul
 "TDD Workflow" (che non mancher&agrave; al prossimo incontro).
 
