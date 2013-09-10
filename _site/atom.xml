@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ruby Social Club</title>
+ <link href="http://rubysocialclub.com/atom.xml" rel="self" type="application/atom+xml"/>
+ <link href="http://rubysocialclub.com" rel="alternate" type="text/html" hreflang="it"/>
+ <updated>2013-09-10T09:14:26+02:00</updated>
+ <id>http://rubysocialclub.com</id>
+ <author>
+   <name>Ruby Social Club</name>
+ </author>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title>Ruby Social Club Roma Settembre 2013</title>
+   <link href="http://rubysocialclub.com/roma/2013/09/03/ruby-social-club-roma-settembre.html"/>
+   <updated>2013-09-03T21:00:00+02:00</updated>
+   <id>http://rubysocialclub.com/roma/2013/09/03/ruby-social-club-roma-settembre</id>
+   <author>
+     <name>gmodarelli</name>
+   </author>
+   <content type="html">&lt;p&gt;L&amp;#39;estate &amp;egrave; finita e siamo pronti a ripartire con il Ruby Social Club.&lt;/p&gt;
+
+&lt;p&gt;Il prossimo appuntamento si terr&amp;agrave; nella location dell&amp;#39;ultimo incontro, il &lt;strong&gt;WCAP di Telecom Italia&lt;/strong&gt; in via Santa Maria in Via 6, e avr&amp;agrave; luogo il &lt;strong&gt;19 Settembre alle 18:30&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gmodarelli.github.io&quot;&gt;Giuseppe Modarelli&lt;/a&gt; terr&amp;agrave; un workshop sul Test-Driven Development, incentrato su Outside-in Development e Test-Driven Design.&lt;/p&gt;
+
+&lt;p&gt;Come da tradizione, al termine dell&amp;#39;incontro, birra collettiva in un pub di zona.&lt;/p&gt;
+
+&lt;p&gt;Buona programmazione a tutti!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Resoconto sul primo incontro del Ruby Social Club Roma</title>
+   <link href="http://rubysocialclub.com/roma/2013/07/05/resoconto-primo-incontro-ruby-social-club-roma.html"/>
+   <updated>2013-07-05T21:00:00+02:00</updated>
+   <id>http://rubysocialclub.com/roma/2013/07/05/resoconto-primo-incontro-ruby-social-club-roma</id>
+   <author>
+     <name>gmodarelli</name>
+   </author>
+   <content type="html">&lt;p&gt;E&amp;#39; passanto un po&amp;#39; di tempo dal primo incontro del Ruby Social Club Roma, ma l&amp;#39;esperienza &amp;egrave; rimasta viva nella mia memoria.&lt;/p&gt;
+
+&lt;p&gt;E&amp;#39; stato un bellissmo incontro fra persone che condividono la stessa passione per Ruby e per la programmazione. Un&amp;#39;occasione per
+conoscere gente nuova e stringere rapporti di amicizia o professionali, o semplicemente per fare due chiacchiere.&lt;/p&gt;
+
+&lt;p&gt;L&amp;#39;evento &amp;egrave; stato organizzato da &lt;a href=&quot;http://lucaguidi.com/about.html&quot;&gt;Luca Guidi&lt;/a&gt; che ringranziamo per aver riportato il Ruby Social Club a Roma.&lt;/p&gt;
+
+&lt;p&gt;Luca ha aperto la serata parlandoci un p&amp;ograve; del suo background lavorativo, delle sue esperienze e dei suoi progetti. Poi ha passato la palla a noi, chiedendoci di presentarci e
+di raccontare le nostre esperienze.&lt;/p&gt;
+
+&lt;p&gt;Dopo un inizio un p&amp;ograve; timido, la passione per Ruby ha preso il sopravvento e ognuno di noi ha parlato della propria esperienza e dei propri progetti. L&amp;#39;atmosfera era cos&amp;igrave; 
+rilassata che abbiamo sforato la durata di un&amp;#39;ora prevista per l&amp;#39;incontro, continuando a discutere animatamente fino alle 21, tanto che Luca non ha avuto il tempo per la talk sul
+&amp;quot;TDD Workflow&amp;quot; (che non mancher&amp;agrave; al prossimo incontro).&lt;/p&gt;
+
+&lt;p&gt;La serata si &amp;egrave; chiusa davanti ad una birra e ad un bel piatto di maccheroni all&amp;#39;amatriciana da Pasquale, splendida trattoria nel cuore di Roma consigliataci da uno dei partecipanti.&lt;/p&gt;
+
+&lt;p&gt;Sono sicuro di parlare a nome di tutti quando dico di essere uscito dall&amp;#39;incontro arricchito ed estremamente motivato nel dare il mio contributo affinch&amp;eacute; il
+Ruby Social Club Roma possa diventare un punto di riferimento per la community di rubyisti romani.&lt;/p&gt;
+
+&lt;p&gt;Contribuire &amp;egrave; molto semplice. Se avete un&amp;#39;idea per il prossimo incontro, se volete proporre un argomento di discussione, o se volete proporvi per una talk
+&lt;a href=&quot;https://github.com/jodosha/rubysocialclub&quot;&gt;forkate questo sito&lt;/a&gt; su github e inviate una pull request con la proposta.&lt;/p&gt;
+
+&lt;p&gt;Fino al prossimo incontro, buona programmazione a tutti.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title>Siamo lieti di annunciare il ritorno del Ruby Social Club a Roma!</title>
+   <link href="http://rubysocialclub.com/roma/2013/05/02/ruby-social-club-ritorna-a-roma-2013.html"/>
+   <updated>2013-05-02T12:18:00+02:00</updated>
+   <id>http://rubysocialclub.com/roma/2013/05/02/ruby-social-club-ritorna-a-roma-2013</id>
+   <author>
+     <name>jodosha</name>
+   </author>
+   <content type="html">&lt;p&gt;Amate la programmazione? Vi interessa uno dei linguaggi pi&amp;ugrave; popolari al mondo? Questo &amp;egrave; l&amp;#39;evento che fa per voi! Gioved&amp;igrave; 30 maggio, presso il Working Capital Accelerator di Telecom Italia, socializzeremo, parleremo di Ruby, e condivideremo le nostre esperienze.&lt;/p&gt;
+
+&lt;p&gt;La serata prevede una breve presentazione dell&amp;#39;evento e delle prossime iniziative della Community Ruby italiana, proseguir&amp;agrave; con una talk: &amp;quot;TDD Workflow&amp;quot; (&lt;a href=&quot;http://lucaguidi.com&quot;&gt;Luca Guidi&lt;/a&gt;). Al termine, birra collettiva in un pub di zona.&lt;/p&gt;
+
+&lt;p&gt;Non Mancate!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+
+</feed>

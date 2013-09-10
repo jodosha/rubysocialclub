@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:http://rubysocialclub.com/roma/2013/09/03/ruby-social-club-roma-settembre.html
+DTSTART:20130919T183000
+DTEND:20130705T210000
+SUMMARY:Ruby Social Club Roma @ Working Capital Accelerator
+LOCATION:Via di Santa Maria in Via, 6 - 00187 - Roma
+END:VEVENT
+END:VCALENDAR
+EVENT
