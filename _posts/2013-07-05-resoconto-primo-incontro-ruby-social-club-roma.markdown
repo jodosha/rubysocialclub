@@ -6,9 +6,9 @@ categories: roma
 author: gmodarelli
 ---
 
-E' passanto un po' di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
+E' passanto un p&ograve; di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
 
-E' stato un bellissmo incontro fra persone che condividono la stessa passione per Ruby e per la programmazione. Un'occasione per
+E' stato un bellissimo incontro fra persone che condividono la stessa passione per ruby e per la programmazione. Un'occasione per
 conoscere gente nuova e stringere rapporti di amicizia o professionali, o semplicemente per fare due chiacchiere.
 
 L'evento &egrave; stato organizzato da [Luca Guidi](http://lucaguidi.com/about.html) che ringranziamo per aver riportato il Ruby Social Club a Roma.
