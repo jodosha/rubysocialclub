@@ -6,7 +6,6 @@ categories: roma
 author: gmodarelli
 ---
 
-
 E' passanto un p&ograve; di tempo dal primo incontro del Ruby Social Club Roma, ma l'esperienza &egrave; rimasta viva nella mia memoria.
 
 E' stato un bellissimo incontro fra persone che condividono la stessa passione per ruby e per la programmazione. Un'occasione per
@@ -17,7 +16,7 @@ L'evento &egrave; stato organizzato da [Luca Guidi](http://lucaguidi.com/about.h
 Luca ha aperto la serata parlandoci un p&ograve; del suo background lavorativo, delle sue esperienze e dei suoi progetti. Poi ha passato la palla a noi, chiedendoci di presentarci e
 di raccontare le nostre esperienze.
 
-Dopo un inizio un p&ograve; timido, la passione per ruby ha preso il sopravvento e ognuno di noi ha parlato della propria esperienza e dei propri progetti. L'atmosfera era così 
+Dopo un inizio un p&ograve; timido, la passione per Ruby ha preso il sopravvento e ognuno di noi ha parlato della propria esperienza e dei propri progetti. L'atmosfera era cos&igrave; 
 rilassata che abbiamo sforato la durata di un'ora prevista per l'incontro, continuando a discutere animatamente fino alle 21, tanto che Luca non ha avuto il tempo per la talk sul
 "TDD Workflow" (che non mancher&agrave; al prossimo incontro).
 

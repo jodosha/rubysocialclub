@@ -2,11 +2,15 @@
   text-decoration: none;
 }
 .demo-logo {
-font-size: 72px;
-font-weight: 900;
-letter-spacing: -2px;
-line-height: 100px;
-color: #e74c3c;
+  font-size: 72px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  line-height: 100px;
+  color: #e74c3c;
+}
+h2.city-name {
+  font-size: 48px;
+  margin-bottom: 1em;
 }
 ul.posts {
   list-style-type: none;
