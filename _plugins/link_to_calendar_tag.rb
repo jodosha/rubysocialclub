@@ -10,12 +10,18 @@ module Jekyll
 
     def render(context)
       page = extract_page_from(context)
-      %(<a href="#{ calendar_url page }" target="_blank">#{ formatted_date page }</a>)
+      if is_an_event? page
+        %(<a href="#{ calendar_url page }" target="_blank">#{ formatted_date page }</a>)
+      end
     end
 
     private
     def extract_page_from(context)
       context['post'] || context['page']
+    end
+
+    def is_an_event?(page)
+      page['starts'] && page['ends']
     end
 
     def calendar_url(page)
